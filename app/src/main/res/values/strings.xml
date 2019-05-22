@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">华容道</string>
+    <string name="step_cost">提示：\n\u3000\u3000你已经走了：%d 步！</string>
+    <string name="step_sum">提示：\n\u3000\u3000你赢了！共用了：%d 步！</string>
+    <string name="destination">终点</string>
+    <string name="left_button">重置</string>
+    <string name="right_button">退出</string>
+    <string name="welcome">提示：\n\u3000\u3000欢迎来到《华容道》之【横刀立马】！</string>
+</resources>
